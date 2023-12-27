@@ -39,7 +39,7 @@ def loop():
     ┴ ┴└─┴ ┴└─┘┴ ┴└─┘┴└─                                                                                                                                                       
  ==============================================
 [+]Author  : Rising                 [+]
-[+]GitHub  : https://github.com/RisingLamp[+]""")
+[+]GitHub  : https://github.com/rising5-guru[+]""")
     print(Fore.GREEN + """ ==============================================""")
     # print("Usage:Iptracker [Ip address]\n\nExample:Iptracker our prsnal ip")
     print(Fore.GREEN + """
