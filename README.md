@@ -56,7 +56,7 @@
     sudo apt-get install git
     sudo apt-get install pip
     sudo apt install python3
-    git clone https://github.com/RisingLamp/Live-location.py.git
+    git clone https://github.com/rising5-guru/Live-location.py.git
     ls
     cd Live-location.py 
     ls
@@ -67,7 +67,7 @@
     apt install python
     apt install python3
     apt install pip
-    git clone https://github.com/RisingLamp/Live-location.py.git
+    git clone https://github.com/rising5-guru/Live-location.py.git
     ls
     cd Live-location.py
     ls
